@@ -1,0 +1,52 @@
+.menu {
+  display: flex;
+  justify-content: space-evenly;
+  background: #442;
+  padding: 11px;
+  color: #fff;
+}
+.menu li {
+  list-style-type: none;
+}
+.menu li a {
+  color: #fff;
+  font-size: 22px;
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+.right {
+  width: 320px;
+  padding: 24px;
+  border: 1px solid #444444;
+  margin: 10px;
+  border-radius: 24px;
+}
+.content {
+  overflow-y: auto;
+  height: 400px;
+}
+.content p {
+  padding: 12px 0;
+}
+input[type="text"] {
+  padding: 12px;
+  width: 480px;
+  border-radius: 4px;
+  margin-bottom: 13px;
+}
+input[type="submit"] {
+  padding: 8px 310px;
+  font-size: 22px;
+  margin: 10px;
+  cursor: pointer;
+}
+select#cars {
+  padding: 12px;
+  font-size: 22px;
+  color: hsla(242, 88.4%, 66.3%, 1);
+  border-radius: 5px;
+}

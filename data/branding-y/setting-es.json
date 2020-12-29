@@ -1,0 +1,20 @@
+{
+  "content": [
+    {
+      "type": "content",
+      "text": "One of the most difficult parts about being a freelancer is determining the rates that you\u2019ll charge for your services. If you charge too little, you run into the risk of being passed over because may see you as an amateur - not to mention that you may not be able to make an appropriate living. If you charge too much, you\u2019ll miss out on a job opportunity because the client can find someone else who can do the job just as well as you but at a fraction of the price."
+    },
+    { "type": "h2", "text": "Estimates vs. Quotes" },
+    {
+      "type": "content",
+      "text": "When being approached by a prospective client, it\u2019s common practice for them to ask for an estimate or rate. The difference between the two is fairly simple to explain."
+    },
+    {
+      "type": "content",
+      "text": "An estimate is usually a rough price of what the project will cost the employer. While an estimate isn\u2019t a fixed post, it\u2019s typically within 20% of the final cost. A quote differs from estimates because usually a quote will end up being the final fixed amount of the project."
+    }
+  ],
+  "title": "Setting Estimates and Rates",
+  "id": "setting",
+  "cat": "setting-es"
+}
